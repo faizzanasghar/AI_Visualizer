@@ -55,7 +55,7 @@ Prerequisites: Ensure you have Python 3.x installed.
 Clone the Repository:
 
 Bash
-git clone https://github.com/faizzanasghar/AI_A1_24F_0052.git
+git clone https://github.com/faizzanasghar/AI_Visualizer.git
 cd AI_A1_24F_0052
 Run the Application:
 
@@ -66,3 +66,4 @@ python main.py
 Authors.
 Muhammad Faizan Asghar
 Ahmad Hassan 
+
